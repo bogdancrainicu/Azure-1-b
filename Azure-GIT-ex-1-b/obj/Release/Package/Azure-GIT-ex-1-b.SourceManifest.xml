@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="E:\BC\WinAzure-Lab-ex\Ex-1\Azure-GIT-ex-1-b\Azure-GIT-ex-1-b\obj\Release\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="E:\BC\WinAzure-Lab-ex\Ex-1\Azure-GIT-ex-1-b\Azure-GIT-ex-1-b\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="E:\BC\WinAzure-Lab-ex\Ex-1\Azure-GIT-ex-1-b\Azure-GIT-ex-1-b\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
